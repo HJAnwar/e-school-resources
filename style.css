@@ -1,7 +1,6 @@
 body{
-    width:1265px ;
     background-color: white;
-    margin: 0px;
+    margin: 0%;
     display:inline-block;
 }
 
@@ -12,7 +11,7 @@ img{
 
 .navbar-section{
     
-    width: 1265px;
+    width: 1263px;
     height: 500px;
     position: absolute;
     left: 0;
@@ -170,7 +169,7 @@ p{
 
 footer{
     text-align: justify;
-    width: 1266px;
+    width: 1263px;
     height: 369px;
     background-color: #282531;
 }
